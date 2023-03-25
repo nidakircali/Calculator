@@ -39,14 +39,14 @@
             android:id="@+id/button3"
             android:layout_width="47dp"
             android:layout_height="50dp"
-            android:onClick="division"
+            android:onClick="multiplication"
             android:text="*" />
 
         <Button
             android:id="@+id/button4"
             android:layout_width="48dp"
             android:layout_height="50dp"
-            android:onClick="multiplication"
+            android:onClick="division"
             android:text="/"
             app:iconTint="#FF5722"
             app:iconTintMode="add"
